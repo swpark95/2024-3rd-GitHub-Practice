@@ -18,6 +18,7 @@
 		551C8E202BE0C30500061F28 /* AceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 551C8E1F2BE0C30500061F28 /* AceView.swift */; };
 		84203E602BE353CC0045F0CE /* EvieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84203E5F2BE353CC0045F0CE /* EvieView.swift */; };
 		8D13C5BA2BE2A1B40063DFDD /* SnooqView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */; };
+		9B431CF52BECBE89001CD981 /* GrooView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B431CF42BECBE89001CD981 /* GrooView.swift */; };
 		C69844292BE0C2050004629D /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C69844282BE0C2050004629D /* OnveView.swift */; };
 		C698442B2BE0C8E60004629D /* LiverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C698442A2BE0C8E60004629D /* LiverView.swift */; };
 		DFA799B52BE0BD4D00C8FDEE /* KayaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */; };
@@ -36,6 +37,7 @@
 		551C8E1F2BE0C30500061F28 /* AceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AceView.swift; sourceTree = "<group>"; };
 		84203E5F2BE353CC0045F0CE /* EvieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EvieView.swift; sourceTree = "<group>"; };
 		8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SnooqView.swift; sourceTree = "<group>"; };
+		9B431CF42BECBE89001CD981 /* GrooView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GrooView.swift; sourceTree = "<group>"; };
 		C69844282BE0C2050004629D /* OnveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
 		C698442A2BE0C8E60004629D /* LiverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiverView.swift; sourceTree = "<group>"; };
 		DFA799B42BE0BD4D00C8FDEE /* KayaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KayaView.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				17CB8B4C2BE3555C006E9496 /* NamudiView.swift */,
 				8D13C5B92BE2A1B40063DFDD /* SnooqView.swift */,
 				1B8D80E92BE3538F00ED94A3 /* NowView.swift */,
+				9B431CF42BECBE89001CD981 /* GrooView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				8D13C5BA2BE2A1B40063DFDD /* SnooqView.swift in Sources */,
 				13F149642BE0BAB100C0982E /* GyunniView.swift in Sources */,
 				551C8E202BE0C30500061F28 /* AceView.swift in Sources */,
+				9B431CF52BECBE89001CD981 /* GrooView.swift in Sources */,
 				C69844292BE0C2050004629D /* OnveView.swift in Sources */,
 				17CB8B4D2BE3555C006E9496 /* NamudiView.swift in Sources */,
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
