@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		11AF68302BF1E78C004DFCA7 /* GogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AF682F2BF1E78C004DFCA7 /* GogoView.swift */; };
 		138603D72BF1D9540017729A /* JintoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BE2BF1D9540017729A /* JintoView.swift */; };
 		138603D82BF1D9540017729A /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BF2BF1D9540017729A /* BellView.swift */; };
 		138603D92BF1D9540017729A /* DoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603C02BF1D9540017729A /* DoryView.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		11AF682F2BF1E78C004DFCA7 /* GogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GogoView.swift; sourceTree = "<group>"; };
 		138603BE2BF1D9540017729A /* JintoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JintoView.swift; sourceTree = "<group>"; };
 		138603BF2BF1D9540017729A /* BellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
 		138603C02BF1D9540017729A /* DoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoryView.swift; sourceTree = "<group>"; };
@@ -157,6 +159,7 @@
 				138603C12BF1D9540017729A /* SeanView.swift */,
 				138603CE2BF1D9540017729A /* SnooqView.swift */,
 				138603D12BF1D9540017729A /* TinaView.swift */,
+				11AF682F2BF1E78C004DFCA7 /* GogoView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				138603DF2BF1D9540017729A /* KayaView.swift in Sources */,
 				138603E42BF1D9540017729A /* LiverView.swift in Sources */,
 				138603E22BF1D9540017729A /* GhostView.swift in Sources */,
+				11AF68302BF1E78C004DFCA7 /* GogoView.swift in Sources */,
 				138603E12BF1D9540017729A /* LucasView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
 				138603EC2BF1D9540017729A /* AceView.swift in Sources */,
