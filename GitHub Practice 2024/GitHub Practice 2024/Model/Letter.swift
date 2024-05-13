@@ -8,6 +8,7 @@
 import Foundation
 
 let letters: [any LetterView] = [
+    RaraView(),
     GyunniView(),
     KayaView(),
     OnveView(),
@@ -33,5 +34,24 @@ let letters: [any LetterView] = [
     DoryView(),
     SeanView(),
     AustinView(),
-    AnnaView()
+    AnnaView(),
+    RainView()
+    NadaView(),
+    LEMONYView(),
+    JunyoView(),
+    DodoView(),
+    KeenieView(),
+    HeraView(),
+    LouisView(),
+    JoyView(),
+    DoranView(),
+    RiniView(),
+    SSanView(),
+    BrooklynView(),
+    ReadyView(),
+    JamieView(),
+    FeatherView(),
+    VeroView(),
+    ZenithView(),
+    MosuView()
 ]
