@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07D1ED5D2BF1E8F7004FE102 /* JJJJoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */; };
 		138603D72BF1D9540017729A /* JintoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BE2BF1D9540017729A /* JintoView.swift */; };
 		138603D82BF1D9540017729A /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BF2BF1D9540017729A /* BellView.swift */; };
 		138603D92BF1D9540017729A /* DoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603C02BF1D9540017729A /* DoryView.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JJJJoundView.swift; sourceTree = "<group>"; };
 		138603BE2BF1D9540017729A /* JintoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JintoView.swift; sourceTree = "<group>"; };
 		138603BF2BF1D9540017729A /* BellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
 		138603C02BF1D9540017729A /* DoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoryView.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				138603D32BF1D9540017729A /* AceView.swift */,
+				07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */,
 				138603D22BF1D9540017729A /* AustinView.swift */,
 				138603BF2BF1D9540017729A /* BellView.swift */,
 				138603C42BF1D9540017729A /* BlisseyView.swift */,
@@ -247,6 +250,7 @@
 				138603E22BF1D9540017729A /* GhostView.swift in Sources */,
 				138603E12BF1D9540017729A /* LucasView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
+				07D1ED5D2BF1E8F7004FE102 /* JJJJoundView.swift in Sources */,
 				138603EC2BF1D9540017729A /* AceView.swift in Sources */,
 				138603E92BF1D9540017729A /* PiView.swift in Sources */,
 				138603EB2BF1D9540017729A /* AustinView.swift in Sources */,
