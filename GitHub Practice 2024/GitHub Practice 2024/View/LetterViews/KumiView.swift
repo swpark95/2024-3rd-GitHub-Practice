@@ -7,7 +7,8 @@
 
 import SwiftUI
 
-struct KumiView: View {
+struct KumiView: LetterView {
+    var name: String = "Kumi"
     var body: some View {
         
         VStack (alignment: .leading)
