@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BF76C292BF1E748001A3F67 /* NadaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF76C282BF1E748001A3F67 /* NadaView.swift */; };
 		1019DA322BF1E6E9001B9777 /* JoyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1019DA312BF1E6E9001B9777 /* JoyView.swift */; };
 		138603D72BF1D9540017729A /* JintoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BE2BF1D9540017729A /* JintoView.swift */; };
 		138603D82BF1D9540017729A /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BF2BF1D9540017729A /* BellView.swift */; };
@@ -56,6 +57,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0BF76C282BF1E748001A3F67 /* NadaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadaView.swift; sourceTree = "<group>"; };
 		1019DA312BF1E6E9001B9777 /* JoyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JoyView.swift; sourceTree = "<group>"; };
 		138603BE2BF1D9540017729A /* JintoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JintoView.swift; sourceTree = "<group>"; };
 		138603BF2BF1D9540017729A /* BellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
@@ -167,6 +169,7 @@
 				79BC64CD2BF1E73A00DA2D1E /* FeatherView.swift */,
 				255638E02BF1E77100BF75C8 /* ZenithView.swift */,
 				138603D32BF1D9540017729A /* AceView.swift */,
+				0BF76C282BF1E748001A3F67 /* NadaView.swift */,
 				138603D22BF1D9540017729A /* AustinView.swift */,
 				90AFFD042BF1E818001764F1 /* JunyoView.swift */,
 				138603BF2BF1D9540017729A /* BellView.swift */,
@@ -321,6 +324,7 @@
 				389A76502BF1E782009BC6F0 /* JamieView.swift in Sources */,
 				138603DA2BF1D9540017729A /* SeanView.swift in Sources */,
 				138603DC2BF1D9540017729A /* NorangView.swift in Sources */,
+				0BF76C292BF1E748001A3F67 /* NadaView.swift in Sources */,
 				138603D82BF1D9540017729A /* BellView.swift in Sources */,
 				9DA2D6C52BF1E75300EA7AC8 /* KeenieView.swift in Sources */,
 				1019DA322BF1E6E9001B9777 /* JoyView.swift in Sources */,
