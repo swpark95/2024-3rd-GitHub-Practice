@@ -33,6 +33,7 @@ let letters: [any LetterView] = [
     DoryView(),
     SeanView(),
     AustinView(),
+    RainView()
     NadaView(),
     LEMONYView(),
     JunyoView(),
