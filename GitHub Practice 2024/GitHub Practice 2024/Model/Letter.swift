@@ -8,6 +8,7 @@
 import Foundation
 
 let letters: [any LetterView] = [
+    RaraView(),
     GyunniView(),
     KayaView(),
     OnveView(),
