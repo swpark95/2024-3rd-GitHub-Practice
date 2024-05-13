@@ -34,6 +34,7 @@ let letters: [any LetterView] = [
     SeanView(),
     AustinView(),
     FeatherView(),
+    VeroView(),
     ZenithView(),
     MosuView()
 ]
