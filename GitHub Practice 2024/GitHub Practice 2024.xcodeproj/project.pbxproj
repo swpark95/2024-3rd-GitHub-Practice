@@ -37,6 +37,7 @@
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		90AFFD052BF1E818001764F1 /* JunyoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90AFFD042BF1E818001764F1 /* JunyoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		13F149572BE0BA6B00C0982E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		90AFFD042BF1E818001764F1 /* JunyoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JunyoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 			children = (
 				138603D32BF1D9540017729A /* AceView.swift */,
 				138603D22BF1D9540017729A /* AustinView.swift */,
+				90AFFD042BF1E818001764F1 /* JunyoView.swift */,
 				138603BF2BF1D9540017729A /* BellView.swift */,
 				138603C42BF1D9540017729A /* BlisseyView.swift */,
 				138603C02BF1D9540017729A /* DoryView.swift */,
@@ -256,6 +259,7 @@
 				138603E82BF1D9540017729A /* EddieView.swift in Sources */,
 				138603ED2BF1D9540017729A /* MartyView.swift in Sources */,
 				138603D72BF1D9540017729A /* JintoView.swift in Sources */,
+				90AFFD052BF1E818001764F1 /* JunyoView.swift in Sources */,
 				138603E52BF1D9540017729A /* HazelView.swift in Sources */,
 				138603E02BF1D9540017729A /* NowView.swift in Sources */,
 				138603EE2BF1D9540017729A /* GyunniView.swift in Sources */,
