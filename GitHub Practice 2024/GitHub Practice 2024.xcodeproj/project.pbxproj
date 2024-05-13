@@ -37,6 +37,7 @@
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		8CCFD04C2BF1E92E0059EF94 /* BrooklynView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CCFD04B2BF1E92E0059EF94 /* BrooklynView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		13F149572BE0BA6B00C0982E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		8CCFD04B2BF1E92E0059EF94 /* BrooklynView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrooklynView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				138603C12BF1D9540017729A /* SeanView.swift */,
 				138603CE2BF1D9540017729A /* SnooqView.swift */,
 				138603D12BF1D9540017729A /* TinaView.swift */,
+				8CCFD04B2BF1E92E0059EF94 /* BrooklynView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				138603DF2BF1D9540017729A /* KayaView.swift in Sources */,
 				138603E42BF1D9540017729A /* LiverView.swift in Sources */,
 				138603E22BF1D9540017729A /* GhostView.swift in Sources */,
+				8CCFD04C2BF1E92E0059EF94 /* BrooklynView.swift in Sources */,
 				138603E12BF1D9540017729A /* LucasView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
 				138603EC2BF1D9540017729A /* AceView.swift in Sources */,
