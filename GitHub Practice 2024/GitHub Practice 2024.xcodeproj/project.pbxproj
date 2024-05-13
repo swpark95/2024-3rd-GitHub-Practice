@@ -37,6 +37,7 @@
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		304875C42BF1E85800A0688A /* WinterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 304875C32BF1E85800A0688A /* WinterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		13F149572BE0BA6B00C0982E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		304875C32BF1E85800A0688A /* WinterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WinterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				138603CD2BF1D9540017729A /* IOView.swift */,
 				138603BE2BF1D9540017729A /* JintoView.swift */,
 				138603C62BF1D9540017729A /* KayaView.swift */,
+				304875C32BF1E85800A0688A /* WinterView.swift */,
 				138603CB2BF1D9540017729A /* LiverView.swift */,
 				138603C82BF1D9540017729A /* LucasView.swift */,
 				138603D42BF1D9540017729A /* MartyView.swift */,
@@ -263,6 +266,7 @@
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				138603DA2BF1D9540017729A /* SeanView.swift in Sources */,
 				138603DC2BF1D9540017729A /* NorangView.swift in Sources */,
+				304875C42BF1E85800A0688A /* WinterView.swift in Sources */,
 				138603D82BF1D9540017729A /* BellView.swift in Sources */,
 				138603E72BF1D9540017729A /* SnooqView.swift in Sources */,
 				138603DB2BF1D9540017729A /* EvieView.swift in Sources */,
