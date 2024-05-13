@@ -7,10 +7,11 @@
 
 import SwiftUI
 
-struct LouisView: View {
+struct LouisView: LetterView {
+    var name: String = "Louis"
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
+        Text("루이바옹")
+        Text("지구정복하기")    }
 }
 
 #Preview {
