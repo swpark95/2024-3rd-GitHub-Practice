@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BF76C292BF1E748001A3F67 /* NadaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF76C282BF1E748001A3F67 /* NadaView.swift */; };
 		138603D72BF1D9540017729A /* JintoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BE2BF1D9540017729A /* JintoView.swift */; };
 		138603D82BF1D9540017729A /* BellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603BF2BF1D9540017729A /* BellView.swift */; };
 		138603D92BF1D9540017729A /* DoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603C02BF1D9540017729A /* DoryView.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0BF76C282BF1E748001A3F67 /* NadaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadaView.swift; sourceTree = "<group>"; };
 		138603BE2BF1D9540017729A /* JintoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JintoView.swift; sourceTree = "<group>"; };
 		138603BF2BF1D9540017729A /* BellView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BellView.swift; sourceTree = "<group>"; };
 		138603C02BF1D9540017729A /* DoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DoryView.swift; sourceTree = "<group>"; };
@@ -133,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				138603D32BF1D9540017729A /* AceView.swift */,
+				0BF76C282BF1E748001A3F67 /* NadaView.swift */,
 				138603D22BF1D9540017729A /* AustinView.swift */,
 				138603BF2BF1D9540017729A /* BellView.swift */,
 				138603C42BF1D9540017729A /* BlisseyView.swift */,
@@ -263,6 +266,7 @@
 				13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */,
 				138603DA2BF1D9540017729A /* SeanView.swift in Sources */,
 				138603DC2BF1D9540017729A /* NorangView.swift in Sources */,
+				0BF76C292BF1E748001A3F67 /* NadaView.swift in Sources */,
 				138603D82BF1D9540017729A /* BellView.swift in Sources */,
 				138603E72BF1D9540017729A /* SnooqView.swift in Sources */,
 				138603DB2BF1D9540017729A /* EvieView.swift in Sources */,
