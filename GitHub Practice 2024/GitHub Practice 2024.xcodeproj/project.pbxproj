@@ -37,6 +37,7 @@
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		25BAD8592BF1E7D6006F47BA /* DodoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25BAD8582BF1E7D6006F47BA /* DodoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		13F149572BE0BA6B00C0982E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		25BAD8582BF1E7D6006F47BA /* DodoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DodoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				138603CF2BF1D9540017729A /* EddieView.swift */,
 				138603C22BF1D9540017729A /* EvieView.swift */,
 				138603CA2BF1D9540017729A /* GangView.swift */,
+				25BAD8582BF1E7D6006F47BA /* DodoView.swift */,
 				138603C92BF1D9540017729A /* GhostView.swift */,
 				138603D52BF1D9540017729A /* GyunniView.swift */,
 				138603CC2BF1D9540017729A /* HazelView.swift */,
@@ -257,6 +260,7 @@
 				138603ED2BF1D9540017729A /* MartyView.swift in Sources */,
 				138603D72BF1D9540017729A /* JintoView.swift in Sources */,
 				138603E52BF1D9540017729A /* HazelView.swift in Sources */,
+				25BAD8592BF1E7D6006F47BA /* DodoView.swift in Sources */,
 				138603E02BF1D9540017729A /* NowView.swift in Sources */,
 				138603EE2BF1D9540017729A /* GyunniView.swift in Sources */,
 				138603EA2BF1D9540017729A /* TinaView.swift in Sources */,
