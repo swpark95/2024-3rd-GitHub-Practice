@@ -37,6 +37,7 @@
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
 		13F1495B2BE0BA6B00C0982E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */; };
 		13F149672BE0BAD100C0982E /* Letter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149662BE0BAD100C0982E /* Letter.swift */; };
+		98968B022BF1E78B000D3A69 /* HeraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98968B012BF1E78B000D3A69 /* HeraView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		13F149572BE0BA6B00C0982E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		13F1495A2BE0BA6B00C0982E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		13F149662BE0BAD100C0982E /* Letter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Letter.swift; sourceTree = "<group>"; };
+		98968B012BF1E78B000D3A69 /* HeraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeraView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +159,7 @@
 				138603C12BF1D9540017729A /* SeanView.swift */,
 				138603CE2BF1D9540017729A /* SnooqView.swift */,
 				138603D12BF1D9540017729A /* TinaView.swift */,
+				98968B012BF1E78B000D3A69 /* HeraView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -241,6 +244,7 @@
 			files = (
 				138603DD2BF1D9540017729A /* BlisseyView.swift in Sources */,
 				138603E32BF1D9540017729A /* GangView.swift in Sources */,
+				98968B022BF1E78B000D3A69 /* HeraView.swift in Sources */,
 				138603D92BF1D9540017729A /* DoryView.swift in Sources */,
 				138603DF2BF1D9540017729A /* KayaView.swift in Sources */,
 				138603E42BF1D9540017729A /* LiverView.swift in Sources */,
