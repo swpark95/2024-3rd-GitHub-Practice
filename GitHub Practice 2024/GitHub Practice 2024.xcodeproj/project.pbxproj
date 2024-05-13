@@ -32,6 +32,7 @@
 		138603ED2BF1D9540017729A /* MartyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603D42BF1D9540017729A /* MartyView.swift */; };
 		138603EE2BF1D9540017729A /* GyunniView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603D52BF1D9540017729A /* GyunniView.swift */; };
 		138603EF2BF1D9540017729A /* OnveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603D62BF1D9540017729A /* OnveView.swift */; };
+		138603F32BF1EA610017729A /* MosuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 138603F22BF1EA610017729A /* MosuView.swift */; };
 		13F149542BE0BA6900C0982E /* GitHub_Practice_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */; };
 		13F149562BE0BA6900C0982E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F149552BE0BA6900C0982E /* ContentView.swift */; };
 		13F149582BE0BA6B00C0982E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13F149572BE0BA6B00C0982E /* Assets.xcassets */; };
@@ -66,6 +67,7 @@
 		138603D42BF1D9540017729A /* MartyView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MartyView.swift; sourceTree = "<group>"; };
 		138603D52BF1D9540017729A /* GyunniView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GyunniView.swift; sourceTree = "<group>"; };
 		138603D62BF1D9540017729A /* OnveView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnveView.swift; sourceTree = "<group>"; };
+		138603F22BF1EA610017729A /* MosuView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MosuView.swift; sourceTree = "<group>"; };
 		13F149502BE0BA6900C0982E /* GitHub Practice 2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitHub Practice 2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		13F149532BE0BA6900C0982E /* GitHub_Practice_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHub_Practice_2024App.swift; sourceTree = "<group>"; };
 		13F149552BE0BA6900C0982E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -160,6 +162,7 @@
 				138603C12BF1D9540017729A /* SeanView.swift */,
 				138603CE2BF1D9540017729A /* SnooqView.swift */,
 				138603D12BF1D9540017729A /* TinaView.swift */,
+				138603F22BF1EA610017729A /* MosuView.swift */,
 			);
 			path = LetterViews;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				138603E32BF1D9540017729A /* GangView.swift in Sources */,
 				138603D92BF1D9540017729A /* DoryView.swift in Sources */,
 				138603DF2BF1D9540017729A /* KayaView.swift in Sources */,
+				138603F32BF1EA610017729A /* MosuView.swift in Sources */,
 				138603E42BF1D9540017729A /* LiverView.swift in Sources */,
 				138603E22BF1D9540017729A /* GhostView.swift in Sources */,
 				138603E12BF1D9540017729A /* LucasView.swift in Sources */,
