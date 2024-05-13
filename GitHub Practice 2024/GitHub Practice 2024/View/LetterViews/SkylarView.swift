@@ -7,7 +7,9 @@
 
 import SwiftUI
 
-struct SkylarView: View {
+
+struct SkylarView: LetterView {
+    var name: String = "Skylar"
     var body: some View {
         
         VStack {
