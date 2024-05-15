@@ -19,6 +19,7 @@ let letters: [any LetterView] = [
     NamudiView(),
     SnooqView(),
     NowView(),
+    GrooView(),
     LucasView(),
     IOView(),
     GhostView(),
