@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07D1ED5D2BF1E8F7004FE102 /* JJJJoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */; };
 		11AF68302BF1E78C004DFCA7 /* GogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AF682F2BF1E78C004DFCA7 /* GogoView.swift */; };
 		103B30C62BF1E75E00253821 /* RaraView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 103B30C52BF1E75E00253821 /* RaraView.swift */; };
 		0BF76C292BF1E748001A3F67 /* NadaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BF76C282BF1E748001A3F67 /* NadaView.swift */; };
@@ -69,6 +70,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JJJJoundView.swift; sourceTree = "<group>"; };
 		11AF682F2BF1E78C004DFCA7 /* GogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GogoView.swift; sourceTree = "<group>"; };
 		103B30C52BF1E75E00253821 /* RaraView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RaraView.swift; sourceTree = "<group>"; };
 		0BF76C282BF1E748001A3F67 /* NadaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NadaView.swift; sourceTree = "<group>"; };
@@ -193,6 +195,7 @@
 				79BC64CD2BF1E73A00DA2D1E /* FeatherView.swift */,
 				255638E02BF1E77100BF75C8 /* ZenithView.swift */,
 				138603D32BF1D9540017729A /* AceView.swift */,
+				07D1ED5C2BF1E8F7004FE102 /* JJJJoundView.swift */,
 				103B30C52BF1E75E00253821 /* RaraView.swift */,
 				0BF76C282BF1E748001A3F67 /* NadaView.swift */,
 				138603D22BF1D9540017729A /* AustinView.swift */,
@@ -341,6 +344,7 @@
 				8CCFD04C2BF1E92E0059EF94 /* BrooklynView.swift in Sources */,
 				138603E12BF1D9540017729A /* LucasView.swift in Sources */,
 				13F149562BE0BA6900C0982E /* ContentView.swift in Sources */,
+				07D1ED5D2BF1E8F7004FE102 /* JJJJoundView.swift in Sources */,
 				51E379742BF1E7420083119C /* RainView.swift in Sources */,
 				138603EC2BF1D9540017729A /* AceView.swift in Sources */,
 				138603E92BF1D9540017729A /* PiView.swift in Sources */,
