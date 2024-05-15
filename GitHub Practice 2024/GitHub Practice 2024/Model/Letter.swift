@@ -48,7 +48,7 @@ let letters: [any LetterView] = [
     JawsView(),
     WinterView(),
     AnnaView(),
-    RainView()
+    RainView(),
     NadaView(),
     LEMONYView(),
     JunyoView(),
@@ -66,5 +66,6 @@ let letters: [any LetterView] = [
     FeatherView(),
     VeroView(),
     ZenithView(),
-    MosuView()
+    MosuView(),
+    HappyView()
 ]
