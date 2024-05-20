@@ -16,5 +16,6 @@ let letters: [any LetterView] = [
     EvieView(),
     NamudiView(),
     SnooqView(),
+    SparkView(),
     NowView()
 ]
