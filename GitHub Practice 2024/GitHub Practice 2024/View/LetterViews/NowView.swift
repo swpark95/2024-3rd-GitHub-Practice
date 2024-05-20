@@ -15,6 +15,8 @@ struct NowView: LetterView {
             .font(.title)
         Text("달팽이처럼 침착하자")
             .font(.body)
+            .foregroundColor(Color.gray)
+            .fontWeight(.bold)
     }
 }
 
